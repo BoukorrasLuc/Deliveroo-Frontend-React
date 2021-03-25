@@ -43,7 +43,6 @@
   img {
     height: 80%;
     width: 50%;
-
     object-fit: cover;
     border-radius: 5px;
     margin-left: 50px;
@@ -224,7 +223,6 @@
   .container-hero {
     display: flex;
     flex-direction: column;
-
     width: 80%;
 
     .description-hero {
@@ -277,12 +275,9 @@
 
     .container-meal {
       margin: 0 auto;
-
       display: flex;
-
       flex-direction: column;
       margin: 20px 15px 15px 0;
-
       width: 300px;
       height: 300px;
 
@@ -290,7 +285,6 @@
         display: flex;
         justify-content: center;
         align-items: center;
-
         height: 160px;
         width: 300px;
         padding: 20px;
@@ -327,69 +321,32 @@
     top: 0px;
     left: 0;
     margin: 0 auto;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
     min-height: 50%;
     width: 80%;
-    background-color: white;
-    border-radius: 15px;
-    box-sizing: border-box;
     padding: 10px;
     margin-top: 10px;
-    box-shadow: 0px 20px 20px rgba(50, 50, 50, 0.1);
 
     .btn-cart {
-      background-color: #00cdbd;
       width: 70%;
-      border-radius: 15px;
-      margin-bottom: 10px;
     }
     .btn-cart-disabled {
-      background-color: #a7a7a7;
       width: 70%;
-    }
-    .cart-empty {
-      margin-top: 50px;
     }
 
     .icon {
       height: 15px;
       width: 15px;
-      color: #00cdbd;
-      margin: 0 2px;
     }
-    .product-title {
-      color: #2e3333;
-    }
+
     .price-cart {
-      margin-top: 15px;
       .Sous-total {
-        display: flex;
-        justify-content: space-between;
         width: 200px;
-        margin: 10px;
-        border-top: solid 1px #868a8a;
-        span {
-          margin-top: 5px;
-        }
       }
       .Livraison {
-        display: flex;
-        justify-content: space-between;
         width: 200px;
-        margin: 10px;
       }
       .total {
-        display: flex;
-        justify-content: space-between;
         width: 200px;
-        margin: 10px;
-        border-top: solid 1px #868a8a;
-        span {
-          margin-top: 30px;
-          font-weight: bold;
-        }
       }
     }
   }
@@ -435,7 +392,6 @@
       .category {
         display: flex;
         flex-wrap: wrap;
-
         width: 100%;
       }
     }
@@ -446,9 +402,6 @@
       height: 162px;
 
       .description-meal {
-        display: flex;
-        flex-direction: column;
-        height: 160px;
         width: 350px;
         padding: 20px;
         margin: 20px 0;
@@ -472,7 +425,6 @@
       img {
         width: 130px;
         height: 130px;
-        object-fit: cover;
       }
     }
   }
