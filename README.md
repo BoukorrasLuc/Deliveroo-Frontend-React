@@ -12,6 +12,6 @@
 
 ## Screenshots
 
-![Screenshot 1](./Preview/screen-01.gif)
+![Screenshot GIF](./Preview/Screen1.gif)
 
-![Screenshot 2](./Preview/screen-02.gif)
+![Screenshot GIF](./Preview/Screen2.gif)
