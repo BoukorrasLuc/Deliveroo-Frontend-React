@@ -57,7 +57,7 @@
   .container-category {
     position: relative;
     top: -247px;
-
+    margin-top: 10px;
     margin-left: 13.9%;
     width: 50.3%;
     h2 {
@@ -138,7 +138,7 @@
 
 .container-cart {
   position: sticky;
-  top: 150px;
+  top: 390px;
   left: calc(100% / 1.535);
   display: flex;
   flex-direction: column;
@@ -148,7 +148,7 @@
   background-color: white;
   border-radius: 15px;
   box-sizing: border-box;
-  padding: 10px;
+  padding-top: 20px;
   margin-top: 20px;
   box-shadow: 0px 20px 20px rgba(50, 50, 50, 0.1);
 
