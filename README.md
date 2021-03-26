@@ -1,6 +1,6 @@
 # Deliveroo-Frontend-React
 
-<img src="./src/Assets/Images/Deliveroo-logo.svg" alt="Deliveroo logo" height="80px" />
+<img src="https://res.cloudinary.com/dgu3expdz/image/upload/v1616707350/Deliveroo-logo_noxn48.png" alt="Deliveroo logo" height="80px" />
 
 ## About this project
 
