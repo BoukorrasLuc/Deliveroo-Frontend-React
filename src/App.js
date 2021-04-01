@@ -5,6 +5,7 @@ import { useState, useEffect } from "react";
 import Header from "./Components/Header";
 import Hero from "./Components/Hero";
 import Main from "./Components/Main";
+import Footer from "./Components/Footer";
 
 import { library } from "@fortawesome/fontawesome-svg-core";
 import {
@@ -48,6 +49,7 @@ function App() {
             setProducts={setProducts}
             total={total}
           />
+          <Footer />
         </>
       )}
     </div>
